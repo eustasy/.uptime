@@ -4,19 +4,19 @@
     "url": "https://ashrise.com",
     "icon": "https://icons.duckduckgo.com/ip3/ashrise.com.ico",
     "slug": "ashrise-a1",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 186,
-    "timeDay": 186,
-    "timeWeek": 186,
-    "timeMonth": 186,
-    "timeYear": 186,
+    "status": "up",
+    "uptime": "98.78%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "98.78%",
+    "time": 187,
+    "timeDay": 187,
+    "timeWeek": 187,
+    "timeMonth": 187,
+    "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-05-03": 0
+      "2025-05-03": 13
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://ashrise.com/phoenix/scrape",
     "icon": "https://icons.duckduckgo.com/ip3/ashrise.com.ico",
     "slug": "ashrise-p2",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 22,
-    "timeDay": 22,
-    "timeWeek": 22,
-    "timeMonth": 22,
-    "timeYear": 22,
+    "status": "up",
+    "uptime": "98.78%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "98.78%",
+    "uptimeMonth": "98.78%",
+    "uptimeYear": "98.78%",
+    "time": 20,
+    "timeDay": 20,
+    "timeWeek": 20,
+    "timeMonth": 20,
+    "timeYear": 20,
     "dailyMinutesDown": {
-      "2025-05-03": 0
+      "2025-05-03": 14
     }
   },
   {
