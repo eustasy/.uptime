@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ashrise.com.ico",
     "slug": "ashrise-a1",
     "status": "up",
-    "uptime": "98.78%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "98.78%",
-    "uptimeYear": "98.78%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 187,
     "timeDay": 187,
     "timeWeek": 187,
     "timeMonth": 187,
     "timeYear": 187,
-    "dailyMinutesDown": {
-      "2025-05-03": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ashrise P2",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/ashrise.com.ico",
     "slug": "ashrise-p2",
     "status": "up",
-    "uptime": "98.78%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "98.78%",
-    "uptimeMonth": "98.78%",
-    "uptimeYear": "98.78%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 20,
     "timeDay": 20,
     "timeWeek": 20,
     "timeMonth": 20,
     "timeYear": 20,
-    "dailyMinutesDown": {
-      "2025-05-03": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ashrise MP",
