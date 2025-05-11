@@ -4,9 +4,9 @@
     "url": "https://ashrise.com",
     "icon": "https://icons.duckduckgo.com/ip3/ashrise.com.ico",
     "slug": "ashrise-a1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 192,
     "timeMonth": 190,
     "timeYear": 190,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-11": 0
+    }
   },
   {
     "name": "Ashrise P2",
     "url": "https://ashrise.com/phoenix/scrape",
     "icon": "https://icons.duckduckgo.com/ip3/ashrise.com.ico",
     "slug": "ashrise-p2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 22,
     "timeMonth": 22,
     "timeYear": 22,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-11": 0
+    }
   },
   {
     "name": "Ashrise MP",
     "url": "https://ashrise.com/torrents",
     "icon": "https://icons.duckduckgo.com/ip3/ashrise.com.ico",
     "slug": "ashrise-mp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +55,9 @@
     "timeWeek": 47,
     "timeMonth": 51,
     "timeYear": 51,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-11": 0
+    }
   },
   {
     "name": "elementary DL-CDN Amsterdam",
