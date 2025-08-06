@@ -90,18 +90,20 @@
     "url": "https://fra1.dl.elementary.io/",
     "icon": "https://icons.duckduckgo.com/ip3/fra1.dl.elementary.io.ico",
     "slug": "elementary-dl-cdn-frankfurt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 651,
     "timeDay": 686,
     "timeWeek": 607,
     "timeMonth": 685,
     "timeYear": 651,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-06": 2
+    }
   },
   {
     "name": "elementary DL-CDN New York City",
@@ -126,10 +128,10 @@
     "url": "https://sfo1.dl.elementary.io/",
     "icon": "https://icons.duckduckgo.com/ip3/sfo1.dl.elementary.io.ico",
     "slug": "elementary-dl-cdn-san-francisco",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 377,
@@ -137,7 +139,9 @@
     "timeWeek": 365,
     "timeMonth": 342,
     "timeYear": 377,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-06": 1
+    }
   },
   {
     "name": "elementary DL-CDN Singapore",
