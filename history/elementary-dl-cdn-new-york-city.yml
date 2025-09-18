@@ -1,7 +1,7 @@
 url: https://nyc3.dl.elementary.io/
-status: down
-code: 502
-responseTime: 402
-lastUpdated: 2025-09-18T21:27:50.007Z
+status: up
+code: 200
+responseTime: 198
+lastUpdated: 2025-09-18T22:28:42.605Z
 startTime: 2025-05-03T05:06:35.357Z
 generator: Upptime <https://github.com/upptime/upptime>
