@@ -1,7 +1,7 @@
 url: https://ams3.dl.elementary.io/
-status: up
-code: 200
-responseTime: 1148
-lastUpdated: 2025-09-17T23:11:59.207Z
+status: down
+code: 502
+responseTime: 1008
+lastUpdated: 2025-09-18T21:27:44.865Z
 startTime: 2025-05-03T05:06:33.215Z
 generator: Upptime <https://github.com/upptime/upptime>
