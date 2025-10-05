@@ -1,7 +1,7 @@
 url: https://sfo1.dl.elementary.io/
-status: up
-code: 200
-responseTime: 420
-lastUpdated: 2025-10-04T23:12:14.792Z
+status: down
+code: 502
+responseTime: 364
+lastUpdated: 2025-10-05T16:32:25.753Z
 startTime: 2025-05-03T05:06:36.022Z
 generator: Upptime <https://github.com/upptime/upptime>
