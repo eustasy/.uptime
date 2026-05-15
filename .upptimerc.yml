@@ -36,6 +36,8 @@ sites:
     url: https://authenticatron.eustasy.org
   - name: bubbly.eustasy.org
     url: https://bubbly.eustasy.org
+  - name: colors.eustasy.org
+    url: https://colors.eustasy.org/
   - name: extensions.eustasy.org
     url: https://extensions.eustasy.org
   - name: labs.eustasy.org
