@@ -34,6 +34,8 @@ sites:
     url: https://apple-silicon.eustasy.org
   - name: authenticatron.eustasy.org
     url: https://authenticatron.eustasy.org
+  - name: bubbly.eustasy.org
+    url: https://bubbly.eustasy.org
   - name: extensions.eustasy.org
     url: https://extensions.eustasy.org
   - name: labs.eustasy.org
