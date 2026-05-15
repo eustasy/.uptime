@@ -1,21 +1,63 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: eustasy # Your GitHub organization or username, where this repository lives
+repo: .uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  # Ashrise
+  - name: Ashrise A1
+    url: https://ashrise.com
+  - name: Ashrise P2
+    url: https://ashrise.com/phoenix/scrape
+  # elementary DL-CDN
+  - name: elementary DL-CDN Amsterdam
+    url: https://ams3.dl.elementary.io/
+  - name: elementary DL-CDN Frankfurt
+    url: https://fra1.dl.elementary.io/
+  - name: elementary DL-CDN New York City
+    url: https://nyc3.dl.elementary.io/
+  - name: elementary DL-CDN San Francisco
+    url: https://sfo1.dl.elementary.io/
+  - name: elementary DL-CDN Singapore
+    url: https://sgp1.dl.elementary.io/
+  # How to elementary
+  - name: How to elementary
+    url: https://howtoelementary.org/
+  # How to Ubuntu
+  - name: How to Ubuntu
+    url: https://howtoubuntu.org/
+  # Current: eustasy.corg
+  - name: eustasy.org
+    url: https://eustasy.org
+  - name: www.eustasy.org
+    url: https://www.eustasy.org
+  - name: apple-silicon.eustasy.org
+    url: https://apple-silicon.eustasy.org
+  - name: authenticatron.eustasy.org
+    url: https://authenticatron.eustasy.org
+  - name: extensions.eustasy.org
+    url: https://extensions.eustasy.org
+  - name: labs.eustasy.org
+    url: https://labs.eustasy.org
+  - name: puff-serverless.eustasy.org
+    url: https://puff-serverless.eustasy.org
+  - name: releases.eustasy.org
+    url: https://releases.eustasy.org
+  - name: simplet.eustasy.org
+    url: https://simplet.eustasy.org
+  - name: status.eustasy.org
+    url: https://status.eustasy.org
+  # Legacy: eustasy.co.uk
+  - name: eustasy.co.uk
+    url: https://eustasy.co.uk
+  - name: www.eustasy.co.uk
+    url: https://www.eustasy.co.uk
+  - name: extensions.eustasy.co.uk
+    url: https://extensions.eustasy.co.uk
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.eustasy.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
@@ -24,8 +66,19 @@ status-website:
   navbar:
     - title: Status
       href: /
+    - title: eustasy.org
+      href: https://eustasy.org
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "15 * * * *"
