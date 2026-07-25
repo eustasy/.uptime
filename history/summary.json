@@ -220,18 +220,20 @@
     "url": "https://authenticatron.eustasy.org",
     "icon": "https://icons.duckduckgo.com/ip3/authenticatron.eustasy.org.ico",
     "slug": "authenticatron-eustasy-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 209,
-    "timeDay": 313,
-    "timeWeek": 214,
-    "timeMonth": 197,
-    "timeYear": 209,
-    "dailyMinutesDown": {}
+    "time": 208,
+    "timeDay": 227,
+    "timeWeek": 205,
+    "timeMonth": 195,
+    "timeYear": 208,
+    "dailyMinutesDown": {
+      "2026-07-25": 0
+    }
   },
   {
     "name": "bubbly.eustasy.org",
