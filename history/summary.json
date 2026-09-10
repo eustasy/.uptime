@@ -4,9 +4,9 @@
     "url": "https://ashrise.com",
     "icon": "https://icons.duckduckgo.com/ip3/ashrise.com.ico",
     "slug": "ashrise-a1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 190,
     "timeMonth": 241,
     "timeYear": 219,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-10": 0
+    }
   },
   {
     "name": "Ashrise P2",
     "url": "https://ashrise.com/phoenix/scrape",
     "icon": "https://icons.duckduckgo.com/ip3/ashrise.com.ico",
     "slug": "ashrise-p2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 150,
     "timeMonth": 185,
     "timeYear": 155,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-10": 0
+    }
   },
   {
     "name": "elementary DL-CDN Amsterdam",
@@ -221,11 +225,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/authenticatron.eustasy.org.ico",
     "slug": "authenticatron-eustasy-org",
     "status": "up",
-    "uptime": "95.70%",
+    "uptime": "95.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.70%",
+    "uptimeYear": "95.71%",
     "time": 214,
     "timeDay": 314,
     "timeWeek": 256,
