@@ -7,7 +7,7 @@ sites:
   - name: Ashrise A1
     url: https://ashrise.com
   - name: Ashrise P2
-    url: https://ashrise.com/phoenix/scrape
+    url: https://tracker.ashrise.com/
   # elementary DL-CDN
   - name: elementary DL-CDN Amsterdam
     url: https://ams3.dl.elementary.io/
@@ -48,6 +48,8 @@ sites:
     url: https://releases.eustasy.org
   - name: simplet.eustasy.org
     url: https://simplet.eustasy.org
+  - name: ssl.eustasy.org
+    url: https://ssl.eustasy.org
   - name: status.eustasy.org
     url: https://status.eustasy.org
   # Legacy: eustasy.co.uk
