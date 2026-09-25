@@ -8,17 +8,6 @@ sites:
     url: https://ashrise.com
   - name: Ashrise P2
     url: https://tracker.ashrise.com/
-  # elementary DL-CDN
-  - name: elementary DL-CDN Amsterdam
-    url: https://ams3.dl.elementary.io/
-  - name: elementary DL-CDN Frankfurt
-    url: https://fra1.dl.elementary.io/
-  - name: elementary DL-CDN New York City
-    url: https://nyc3.dl.elementary.io/
-  - name: elementary DL-CDN San Francisco
-    url: https://sfo1.dl.elementary.io/
-  - name: elementary DL-CDN Singapore
-    url: https://sgp1.dl.elementary.io/
   # How to elementary
   - name: How to elementary
     url: https://howtoelementary.org/
@@ -59,6 +48,9 @@ sites:
     url: https://www.eustasy.co.uk
   - name: extensions.eustasy.co.uk
     url: https://extensions.eustasy.co.uk
+  # External: valadoc.org
+  - name: valadoc.org
+    url: https://valadoc.org/
 
 assignees: # Users to assign downtime issues (optional)
   - lewisgoddard
