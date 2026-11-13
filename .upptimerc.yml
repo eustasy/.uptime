@@ -1,6 +1,5 @@
-# Change these first
-owner: eustasy # Your GitHub organization or username, where this repository lives
-repo: .uptime # The name of this repository
+owner: eustasy
+repo: .uptime
 
 sites:
   # Ashrise
@@ -14,7 +13,7 @@ sites:
   # How to Ubuntu
   - name: How to Ubuntu
     url: https://howtoubuntu.org/
-  # Current: eustasy.corg
+  # Current: eustasy.org
   - name: eustasy.org
     url: https://eustasy.org
   - name: www.eustasy.org
@@ -52,18 +51,16 @@ sites:
   - name: valadoc.org
     url: https://valadoc.org/
 
-assignees: # Users to assign downtime issues (optional)
+# Users assigned to downtime issues
+assignees:
   - lewisgoddard
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.eustasy.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://eustasy.org/assets/favicon.svg
+  name: eustasy Status
+  introTitle: "Status of **eustasy** sites and services"
+  introMessage: Checked hourly with [Upptime](https://upptime.js.org). Downtime is tracked as issues in the [GitHub repository](https://github.com/eustasy/.uptime).
   navbar:
     - title: Status
       href: /
@@ -72,8 +69,7 @@ status-website:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+# Configuration reference: https://upptime.js.org/docs/configuration
 
 workflowSchedule:
   graphs: "0 0 * * *"
